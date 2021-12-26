@@ -15,3 +15,10 @@
 .main-section .main-title{
     margin-bottom: 60px;
 }
+
+.main-section.-bgBlack{
+    background-color: #000;
+}
+.main-section.-bdSecond{
+    border-bottom: 10px solid purple;
+}
