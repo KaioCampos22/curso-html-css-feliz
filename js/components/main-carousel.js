@@ -1,5 +1,6 @@
-const btnRight = document.querySelector('.button-arrow.-right')
-const btnLeft = document.querySelector('.button-arrow.-left')
+// Botões trocados
+const btnLeft = document.querySelector('.button-arrow.-right') 
+const btnRight = document.querySelector('.button-arrow.-left')
 const elements = document.querySelector('.elements');
 let pixels = 100;
 
